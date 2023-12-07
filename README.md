@@ -1,3 +1,4 @@
-# Amazon-Clone
-Crewated a amazonj clone as a first project after learning 
-HTML and CSS
+#cerated a amazon clone webpage
+i've created a amazon lookalike(clone)
+webpage as my first project 
+using HTML CSS
